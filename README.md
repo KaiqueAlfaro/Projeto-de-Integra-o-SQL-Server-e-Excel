@@ -65,7 +65,7 @@ Após a criação da view VENDAS, os dados foram importados para o Excel utiliza
 ![image](https://github.com/user-attachments/assets/a294acba-7cfb-4098-88cf-749d2505a90e)
 
 
-Screenshots e Exemplos
+## Screenshots e Exemplos
 
 Abaixo estão algumas imagens do dashboard gerado:
 
