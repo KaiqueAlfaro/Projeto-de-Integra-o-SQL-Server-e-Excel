@@ -77,7 +77,8 @@ Vendas por Mês
 
 Vendas por Categoria
 
-![Vendas por Categoria](vendas_por_categoria.png)
+![image](https://github.com/user-attachments/assets/13335d43-51ad-4af2-9887-a7aec999c42a)
+
 
 Vendas por Gênero
 
